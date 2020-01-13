@@ -1,0 +1,34 @@
+{
+  "name": "cdc-javascript-design-patterns",
+  "version": "1.0.0",
+  "description": "Javascript design pattern",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/firhatsungkar/cdc-javascript-design-patterns.git"
+  },
+  "keywords": [
+    "javascript",
+    "design",
+    "pattern"
+  ],
+  "author": "firhatsungkar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/firhatsungkar/cdc-javascript-design-patterns/issues"
+  },
+  "homepage": "https://github.com/firhatsungkar/cdc-javascript-design-patterns#readme",
+  "devDependencies": {
+    "@babel/core": "^7.8.0",
+    "@babel/preset-env": "^7.8.2",
+    "@types/jest": "^24.0.25",
+    "babel-jest": "^24.9.0",
+    "jest": "^24.9.0"
+  },
+  "dependencies": {
+    "global": "^4.4.0"
+  }
+}

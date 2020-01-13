@@ -22,7 +22,7 @@ As the name suggests, these patterns are for handling object creational mechanis
 
 These patterns are concerned with class and object composition. They help structure or restructure one or more parts without affecting the entire system. In other words, they help obtain new functionalities without tampering with the existing ones.
 
-- [ ] **_Adapter Pattern_**
+- [x] [**_Adapter Pattern_**](https://github.com/firhatsungkar/cdc-javascript-design-patterns/tree/master/Adapter%20Pattern)
 - [ ] **_Composite Pattern_**
 - [ ] **_Decorator Pattern_**
 - [ ] **_Façade Pattern_**
